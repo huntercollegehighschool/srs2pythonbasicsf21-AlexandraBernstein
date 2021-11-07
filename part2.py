@@ -29,7 +29,6 @@ diamond(5) -->
      * *     
       * 
 """
-
 def diamond(size):
   for i in range(1, size + 1):
     for j in range(1, size - i + 1):
