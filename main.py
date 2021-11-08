@@ -1,4 +1,4 @@
-import part1, part2
+k8iimport part1, part2
 import os
 
 program = input("Which part? ")
